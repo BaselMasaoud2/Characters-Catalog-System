@@ -1,0 +1,110 @@
+Pokémon,Ash Ketchum,10,Pokémon Trainer
+Pokémon,Misty,10,Water Pokémon Trainer
+Pokémon,Brock,15,Pokémon Breeder
+Pokémon,Jessie,17,Team Rocket Member
+Pokémon,James,17,Team Rocket Member
+Pokémon,Pikachu,5,Electric Mouse Pokémon
+Yu-Gi-Oh!,Yugi Mutou,16,King of Games
+Yu-Gi-Oh!,Seto Kaiba,18,CEO of KaibaCorp
+Yu-Gi-Oh!,Joey Wheeler,16,Duelist
+Yu-Gi-Oh!,Mai Valentine,18,Duelist
+Yu-Gi-Oh!,Maximillion Pegasus,24,Creator of Duel Monsters
+Dragon Ball,Goku,25,Super Saiyan
+Dragon Ball,Vegeta,30,Prince of Saiyans
+Dragon Ball,Gohan,11,Half-Saiyan
+Dragon Ball,Piccolo,28,Namekian Warrior
+Dragon Ball,Krillin,25,Martial Artist
+Dragon Ball,Bulma,28,Scientist
+Ben 10,Ben Tennyson,10,Wielder of Omnitrix
+Ben 10,Gwen Tennyson,10,Magic User
+Ben 10,Kevin Levin,11,Energy Absorber
+Ben 10,Grandpa Max,60,Plumber
+Ben 10,Vilgax,Unknown,Alien Warlord
+Ben 10,Four Arms,Unknown,Tetramand Alien
+Digimon,Taichi Yagami,11,Leader of DigiDestined
+Digimon,Yamato Ishida,11,Lone Wolf
+Digimon,Sora Takenouchi,11,Caring Friend
+Digimon,Koushiro Izumi,10,Computer Whiz
+Digimon,Mimi Tachikawa,10,Cheerful Girl
+Pokémon,Gary Oak,10,Pokémon Trainer
+Pokémon,Professor Oak,50,Pokémon Researcher
+Pokémon,Tracey Sketchit,15,Pokémon Watcher
+Pokémon,May,10,Coordinator
+Pokémon,Max,8,Trainer in Training
+Yu-Gi-Oh!,Bakura Ryou,16,Duelist
+Yu-Gi-Oh!,Marik Ishtar,20,Rare Hunter Leader
+Yu-Gi-Oh!,Ishizu Ishtar,22,Egyptian Guardian
+Yu-Gi-Oh!,Duke Devlin,17,Game Designer
+Dragon Ball,Trunks,8,Half-Saiyan
+Dragon Ball,Goten,7,Half-Saiyan
+Dragon Ball,Frieza,Unknown,Emperor of Universe
+Dragon Ball,Cell,Unknown,Bio-Android
+Dragon Ball,Android 18,Unknown,Cyborg
+Ben 10,Upgrade,Unknown,Galvanic Mechamorph
+Ben 10,Diamondhead,Unknown,Petrosapien Alien
+Ben 10,Heatblast,Unknown,Pyronite Alien
+Ben 10,Ghostfreak,Unknown,Ectonurite Alien
+Ben 10,XLR8,Unknown,Kineceleran Alien
+TMNT,Leonardo,15,Leader with Swords
+TMNT,Raphael,15,Hot-Headed with Sais
+TMNT,Donatello,15,Genius with Bo Staff
+TMNT,Michelangelo,15,Fun-Loving with Nunchucks
+TMNT,Master Splinter,50,Ninja Master
+Pokémon,Dawn,10,Coordinator
+Pokémon,Paul,10,Pokémon Trainer
+Pokémon,Cynthia,30,Pokémon Champion
+Pokémon,Lucian,28,Elite Four Member
+Pokémon,Volkner,25,Gym Leader
+Yu-Gi-Oh!,Noah Kaiba,10,Virtual Villain
+Yu-Gi-Oh!,Mokuba Kaiba,12,Kaiba's Brother
+Yu-Gi-Oh!,Tea Gardner,16,Friend of Yugi
+Yu-Gi-Oh!,Rebecca Hawkins,12,Duelist
+Dragon Ball,Majin Buu,Unknown,Magical Being
+Dragon Ball,Hercule Satan,45,World Champion
+Dragon Ball,Videl,16,Martial Artist
+Dragon Ball,Chi-Chi,30,Goku's Wife
+Dragon Ball,Yamcha,28,Desert Bandit
+Ben 10,Ripjaws,Unknown,Piscciss Premann Alien
+Ben 10,Stinkfly,Unknown,Lepidopterran Alien
+Ben 10,Wildmutt,Unknown,Vulpimancer Alien
+Ben 10,Greymatter,Unknown,Galvan Alien
+Ben 10,Cannonbolt,Unknown,Arburian Pelarota Alien
+Avatar,Aang,112,Avatar
+Avatar,Katara,14,Waterbender
+Avatar,Sokka,15,Warrior
+Avatar,Toph,12,Earthbender
+Avatar,Zuko,16,Firebender
+Pokémon,Lance,25,Dragon Master
+Pokémon,Koga,40,Ninja Trainer
+Pokémon,Sabrina,21,Psychic Gym Leader
+Pokémon,Blaine,58,Fire Gym Leader
+Pokémon,Erika,18,Grass Gym Leader
+Yu-Gi-Oh!,Zigfried von Schroeder,25,Duelist
+Yu-Gi-Oh!,Leon von Schroeder,14,Duelist
+Yu-Gi-Oh!,Solomon Muto,72,Yugi's Grandpa
+Yu-Gi-Oh!,Espa Roba,15,Psychic Duelist
+Dragon Ball,Master Roshi,350,Turtle Hermit
+Dragon Ball,Tien Shinhan,28,Martial Artist
+Dragon Ball,Chiaotzu,Unknown,Martial Artist
+Dragon Ball,King Kai,Unknown,Northern Kai
+Dragon Ball,Dende,20,Guardian of Earth
+Ben 10,Wildvine,Unknown,Florauna Alien
+Ben 10,Upchuck,Unknown,Gourmand Alien
+Ben 10,Ditto,Unknown,Splixson Alien
+Ben 10,Eye Guy,Unknown,Opticoid Alien
+Ben 10,Way Big,Unknown,To'kustar Alien
+SpongeBob,SpongeBob SquarePants,20,Fry Cook
+SpongeBob,Patrick Star,20,Best Friend
+SpongeBob,Squidward Tentacles,40,Neighbor
+SpongeBob,Mr. Krabs,50,Restaurant Owner
+SpongeBob,Sandy Cheeks,25,Scientist
+Pokémon,Whitney,16,Normal Gym Leader
+Pokémon,Falkner,18,Flying Gym Leader
+Pokémon,Bugsy,14,Bug Gym Leader
+Pokémon,Jasmine,17,Steel Gym Leader
+Pokémon,Clair,20,Dragon Gym Leader
+Yu-Gi-Oh!,Weevil Underwood,14,Insect Duelist
+Yu-Gi-Oh!,Rex Raptor,15,Dinosaur Duelist
+Yu-Gi-Oh!,Mako Tsunami,18,Fisherman Duelist
+Yu-Gi-Oh!,Bandit Keith,21,Bandit Duelist
+Yu-Gi-Oh!,Odion,26,Guardian
